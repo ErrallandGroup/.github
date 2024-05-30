@@ -1,5 +1,3 @@
 # ErrallandGroup
 
-L'ErrallandGroup est un réseau regroupant plusieurs projets.
-
-EN COURS DE REDACTION
+Ce répertoire sert pour décrire l'organisation.
